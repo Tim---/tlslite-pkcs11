@@ -1,0 +1,2 @@
+python-pkcs11
+tlslite-ng==0.8.0-b5
